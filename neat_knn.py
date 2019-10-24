@@ -174,7 +174,7 @@ def get_category_frequencies(neighbors):
             
                 
             
-
+    return dictionary
 
 def find_most_frequent_category(freqs):
     """
